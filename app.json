@@ -1,0 +1,12 @@
+{
+  "name": "React Table Display",
+  "description": "Display two columns in a table with data",
+  "keywords": [ ""],
+  "repository": "",
+  "logo": "",
+  "website": "",
+  "success_url": "/",
+  "env" : {
+    "BUILDPACK_URL": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+  }
+}
